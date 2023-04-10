@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @bCigueS
-- 👀 I’m new in the coding world
-- 🌱 I’m currently learning C Python HTML CSS etc. i'm exploring coding
+- 👋 Hi, I’m Simon Beylot Student at 42 School
+
 
 <!---
 bCigueS/bCigueS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
