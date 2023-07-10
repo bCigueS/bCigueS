@@ -17,6 +17,8 @@ Contact: beylotsimon@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bCigueS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and Tools
+
+<p float="left">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" /> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" /> 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" />
@@ -26,6 +28,8 @@ Contact: beylotsimon@gmail.com
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" />
+</p>
+
 
 ## Graphic Projects
 - [Cub3d](https://github.com/bCigueS/cub3d)
