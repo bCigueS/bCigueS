@@ -19,15 +19,16 @@ Contact: beylotsimon@gmail.com
 ## Languages and Tools
 
 <p float="left">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/c.svg" /> 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/cplusplus.svg" /> 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/typescript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/neovim.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/visualstudio.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobephotoshop.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/adobeillustrator.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/blender.svg" />
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/c/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/typescript/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/react/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/neovim/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobephotoshop/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/adobeillustrator/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/blender/7A8073" />
 </p>
 
 
