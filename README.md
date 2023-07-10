@@ -32,20 +32,20 @@ Contact: beylotsimon@gmail.com
 </p>
 
 
-## Graphic Projects
-- [Cub3d](https://github.com/bCigueS/cub3d)
-- [Fdf](https://github.com/bCigueS/fdf)
-- [Scop]() in progress...
+## Graphics Projects
+- [Cub3d](https://github.com/bCigueS/cub3d) | Build a **raycasting engine**
+- [Fdf](https://github.com/bCigueS/fdf) | Build a 3d representation of a landscape
+- [Scop]() in progress...   | Parse and display **.obj file**
 
 ## Unix shell Project
-- [Minishell](https://github.com/bCigueS/minishell) (ft. [fbily42](https://github.com/fbily42))
+- [Minishell](https://github.com/bCigueS/minishell) (ft. [fbily42](https://github.com/fbily42)) | Create a **...mini shell**
 
 ## Docker Project
-- [Inception](https://github.com/bCigueS/inception)
+- [Inception](https://github.com/bCigueS/inception) | Build 3 dockers and make them communicate: **Nginx, Wordpress, Mariadb**
 
 ## C++ Projects
-- [ft_irc](https://github.com/bCigueS/ft_irc) (ft. [olivwalsh](https://github.com/olivwalsh) & [foctavia](https://github.com/foctavia))
-- [ft_containers](https://github.com/bCigueS/ft_containers)
+- [ft_irc](https://github.com/bCigueS/ft_irc) (ft. [olivwalsh](https://github.com/olivwalsh) & [foctavia](https://github.com/foctavia)) | Create a **irc server**
+- [ft_containers](https://github.com/bCigueS/ft_containers) | Recreate c++ containers:  **Vector Map and Stack**
 
 <!-- | PROJET | Grade |
 | :------: | :------: |
