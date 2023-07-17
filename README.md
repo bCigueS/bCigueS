@@ -31,6 +31,8 @@ Contact: beylotsimon@gmail.com
 <img height="32" width="32" src="https://cdn.simpleicons.org/blender/7A8073" />
 </p>
 
+## Web Project
+- [ft_transcendence](https://github.com/bCigueS/ft_transcendence) | Build a **Pong** App
 
 ## Graphics Projects
 - [Cub3d](https://github.com/bCigueS/cub3d) | Build a **raycasting engine**
