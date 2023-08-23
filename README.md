@@ -10,11 +10,6 @@ Contact: beylotsimon@gmail.com
 
 [![sbeylot's 42 stats](https://badge42.vercel.app/api/v2/clgak8c7g007308k2u0ma7sr5/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
-## Interests 
-
-- Low level programming 
-- Graphic Programming
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bCigueS&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Languages and Tools
 
@@ -32,11 +27,11 @@ Contact: beylotsimon@gmail.com
 </p>
 
 ## Web Projects
-- [ft_transcendence](https://github.com/bCigueS/ft_transcendence) | Build a **Pong** App
-- [Github Search User App](https://github.com/bCigueS/github-user-search-app-frontendmentor) | App to search github User (FrontendMentor Challenge)
+- [ft_transcendence](https://github.com/bCigueS/ft_transcendence) | Build a **Pong** App (React)
+- [Github Search User App](https://github.com/bCigueS/github-user-search-app-frontendmentor) | App to search github User (FrontendMentor Challenge) (React)
 
 ## Mobile Project
-- [swifty-companion](https://github.com/bCigueS/swifty-companion) | Build a Mobile app and fetch data from API
+- [swifty-companion](https://github.com/bCigueS/swifty-companion) | Build a Mobile app and fetch data from API (React Native)
 - 
 ## Graphics Projects
 - [Cub3d](https://github.com/bCigueS/cub3d) | Build a **raycasting engine**
