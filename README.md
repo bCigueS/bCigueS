@@ -27,24 +27,23 @@ Contact: beylotsimon@gmail.com
 </p>
 
 ## Web Projects
-- [ft_transcendence](https://github.com/bCigueS/ft_transcendence) | Build a **Pong** App (React)
-- [Github Search User App](https://github.com/bCigueS/github-user-search-app-frontendmentor) | App to search github User (FrontendMentor Challenge) (React)
+- [ft_transcendence](https://github.com/bCigueS/ft_transcendence) | Build a **Pong** App (React Typescript)
+- [Github Search User App](https://github.com/bCigueS/github-user-search-app-frontendmentor) | App to search github User (FrontendMentor Challenge) (React Typescript)
 
 ## Mobile Project
-- [swifty-companion](https://github.com/bCigueS/swifty-companion) | Build a Mobile app and fetch data from API (React Native)
-- 
+- [swifty-companion](https://github.com/bCigueS/swifty-companion) | Build a Mobile app and fetch data from API (React Native Typescript)
+
 ## Graphics Projects
-- [Cub3d](https://github.com/bCigueS/cub3d) | Build a **raycasting engine**
-- [Fdf](https://github.com/bCigueS/fdf) | Build a 3d representation of a landscape
-- [Scop]() in progress...   | Parse and display **.obj file**
+- [Cub3d](https://github.com/bCigueS/cub3d) | Build a **raycasting engine** (C)
+- [Fdf](https://github.com/bCigueS/fdf) | Build a 3d representation of a landscape (C)
 
 ## Unix shell Project
-- [Minishell](https://github.com/bCigueS/minishell) (ft. [fbily42](https://github.com/fbily42)) | Create a **...mini shell**
+- [Minishell](https://github.com/bCigueS/minishell) (ft. [fbily42](https://github.com/fbily42)) | Create a **...mini shell**(C)
 
 ## Docker Project
 - [Inception](https://github.com/bCigueS/inception) | Build 3 dockers and make them communicate: **Nginx, Wordpress, Mariadb**
 
 ## C++ Projects
-- [ft_irc](https://github.com/bCigueS/ft_irc) (ft. [olivwalsh](https://github.com/olivwalsh) & [foctavia](https://github.com/foctavia)) | Create a **irc server**
-- [ft_containers](https://github.com/bCigueS/ft_containers) | Recreate c++ containers:  **Vector Map and Stack**
+- [ft_irc](https://github.com/bCigueS/ft_irc) (ft. [olivwalsh](https://github.com/olivwalsh) & [foctavia](https://github.com/foctavia)) | Create a **irc server** (C++)
+- [ft_containers](https://github.com/bCigueS/ft_containers) | Recreate c++ containers:  **Vector Map and Stack** (C++)
 
