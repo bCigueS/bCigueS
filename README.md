@@ -17,6 +17,7 @@ Contact: beylotsimon@gmail.com
 
 <img height="32" width="32" src="https://cdn.simpleicons.org/c/7A8073" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus/7A8073" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/csharp/7A8073" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/typescript/7A8073" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/react/7A8073" />
 <img height="32" width="32" src="https://cdn.simpleicons.org/neovim/7A8073" />
